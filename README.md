@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FillBk (Florin BODNARYUK)
 - 🌱 I’m System Test Engineer 
-- 📫 How to reach me via email: fillbk99@gmail.com
+- 📫 You can reach me via email: fillbk99@gmail.com
 
 <!---
 FillBk/FillBk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
